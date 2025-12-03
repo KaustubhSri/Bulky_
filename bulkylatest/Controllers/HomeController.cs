@@ -13,7 +13,7 @@ namespace BulkyWeb.Controllers
             _logger = logger;
         } 
 
-        public IActionResult Index1()  
+        public IActionResult Index()  
         {
             return View();
         }
