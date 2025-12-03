@@ -1,0 +1,6 @@
+@bulkylatest_HostAddress = http://localhost:5115
+
+GET {{bulkylatest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
