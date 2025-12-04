@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bulkylatest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9577a3a7550f65ea8bd9c40c1f64fd1a04b4af23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51454ba78d36fd14df4b7c1a93c52fba76c68988")]
 [assembly: System.Reflection.AssemblyProductAttribute("bulkylatest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bulkylatest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
