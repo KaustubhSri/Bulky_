@@ -10,7 +10,9 @@ namespace bulkylatest.Controllers
         {  _db = db; }
         public IActionResult Index()
         {
-            return View();
+            var objCategoryList = _db.Categories.ToList();
+
+            return View(objCategoryList);
         }
     }
 }
