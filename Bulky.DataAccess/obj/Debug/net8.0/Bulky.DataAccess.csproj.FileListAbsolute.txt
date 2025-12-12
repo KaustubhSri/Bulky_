@@ -1,0 +1,12 @@
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\kaustubh.srivastava\source\repos\KaustubhSri\bulkys\bulkys\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll

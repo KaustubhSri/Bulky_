@@ -58,7 +58,36 @@ namespace bulkylatest.Controllers
             }
             if (ModelState.IsValid)
             {
-                _db.Categories.Add(ctr);
+                _db.Categories.Update(ctr);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+        public IActionResult Delete(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            Category? CategoryFromDb = _db.Categories.Find(id);
+            if (CategoryFromDb == null)
+            {
+                return NotFound();
+            }
+            return View(CategoryFromDb);
+        }
+        [HttpPost]
+        public IActionResult Delete(Category ctr)
+        {
+            if (ctr.Name == ctr.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError("", "The DisplayOrder cannot exactly match the Name.");
+            }
+            if (ModelState.IsValid)
+            {
+                _db.Categories.Remove(ctr);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
