@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CIKC5ZHzU5A=",
+  "dgSpecHash": "XAKfyUQBK3c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaustubh.srivastava\\source\\repos\\KaustubhSri\\bulkys\\bulkylatest\\bulkylatest.csproj",
+  "projectFilePath": "C:\\Users\\kaustubh.srivastava\\source\\repos\\KaustubhSri\\bulkys\\bulkys\\bulkylatest\\bulkylatest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaustubh.srivastava\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\kaustubh.srivastava\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
